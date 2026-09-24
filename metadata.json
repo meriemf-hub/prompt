@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Engineering : les bases",
+  "description": "Cours interactif et complet pour maîtriser l'art du prompt engineering : 8 modules pédagogiques, exercices pratiques, quiz, comparateurs et projet final.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
